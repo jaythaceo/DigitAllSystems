@@ -1,8 +1,6 @@
-
-
 <?php
-
-/ location of the text file that will log all the ip adresses
+// Need more information
+// location of the text file that will log all the ip adresses
 $file = 'logfile.txt';
 
 // ip address of the visitor
